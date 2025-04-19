@@ -1,0 +1,10 @@
+.resizing {
+    border: 2px dashed red;
+    width: 15px;
+    height: 15px;
+    margin-bottom: 20px;
+}
+
+.numbers {
+    font-size: 20px;
+}
